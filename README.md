@@ -72,9 +72,3 @@ The platform has already made a significant impact by facilitating donations, pr
 
 - *Sign Up Today to Donate or Request Food*
 - *Together, We Can End Hunger*
-
-## Contact Us
-
-- *Email*: [info@nourishconnect.com](mailto:info@nourishconnect.com)
-- *Phone*: +91 8287171506
-- *Social Media*: @nourishconnect
